@@ -1,7 +1,7 @@
 # Hospitality Domain Data Analytics Project
 
 ## Overview
-This project, inspired by a resume challenge by **Codebasics**, focuses on AtliQ Grands, an imaginary five-star hotel chain operating across multiple cities in India. The project addresses AtliQ Grands' challenges in market share and revenue loss within the luxury/business hotel category. The goal was to create a comprehensive data analytics solution to provide actionable insights and support effective decision-making.
+This project, inspired by a resume challenge by **Codebasics**, an imaginary five-star hotel chain operating across multiple cities in India. The project addresses AtliQ Grands' challenges in market share and revenue loss within the luxury/business hotel category. The goal was to create a comprehensive data analytics solution to provide actionable insights and support effective decision-making.
 
 ---
 
